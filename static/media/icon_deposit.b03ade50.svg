@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon_deposit</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#F67FE7" offset="0%"></stop>
+            <stop stop-color="#FF70E2" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="icon_deposit" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组-13" transform="translate(1.500000, 3.500000)" fill="url(#linearGradient-1)" fill-rule="nonzero">
+            <path d="M8.5,0.2 C13.0311559,0.2 16.8,1.95879393 16.8,4.5 L16.8,4.5 L16.8,8.5 C16.8,11.0412061 13.0311559,12.8 8.5,12.8 C4.0652517,12.8 0.36072144,11.1152522 0.205089436,8.66113266 L0.2,8.5 L0.2,4.5 L0.205089436,4.33886734 C0.36072144,1.88474783 4.0652517,0.2 8.5,0.2 Z M15.2005191,7.09945329 C13.6813696,8.162054 11.2289368,8.8 8.5,8.8 C5.77046063,8.8 3.31754747,8.16177225 1.79847477,7.09874936 L1.8,8.5 C1.8,9.82478718 4.74688462,11.2 8.5,11.2 C12.1568817,11.2 15.0483476,9.89440676 15.1942237,8.60198213 L15.2,8.5 Z M8.5,1.8 C4.74688462,1.8 1.8,3.17521282 1.8,4.5 C1.8,5.82478718 4.74688462,7.2 8.5,7.2 C12.2531154,7.2 15.2,5.82478718 15.2,4.5 C15.2,3.17521282 12.2531154,1.8 8.5,1.8 Z" id="形状结合"></path>
+        </g>
+    </g>
+</svg>

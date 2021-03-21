@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon_docs</title>
+    <g id="icon_docs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组-8" transform="translate(2.000000, 2.000000)">
+            <rect id="矩形" x="0" y="0" width="16" height="16"></rect>
+            <g id="编组-7" transform="translate(1.500000, 0.000000)" stroke="#C1C7DF" stroke-width="1.6">
+                <path d="M7,0 L7,0 L7,5 C7,5.55228475 7.44771525,6 8,6 L13,6 L13,6" id="路径"></path>
+                <path d="M2,0 L7.00938494,0 C7.27753922,-8.26415261e-16 7.53445847,0.107697078 7.72245854,0.298910824 L12.7130736,5.37483555 C12.8969561,5.56186132 13,5.81364356 13,6.07592472 L13,14 C13,15.1045695 12.1045695,16 11,16 L2,16 C0.8954305,16 1.3527075e-16,15.1045695 0,14 L0,2 C-1.3527075e-16,0.8954305 0.8954305,2.02906125e-16 2,0 Z" id="矩形"></path>
+            </g>
+        </g>
+    </g>
+</svg>

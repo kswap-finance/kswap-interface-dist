@@ -1,0 +1,2 @@
+(this["webpackJsonp@kswap-finance/interface"]=this["webpackJsonp@kswap-finance/interface"]||[]).push([[8],{892:function(n,c){},893:function(n,c){},902:function(n,c){},903:function(n,c){},923:function(n,c){},926:function(n,c){},927:function(n,c){},932:function(n,c){},936:function(n,c){},981:function(n,c){}}]);
+//# sourceMappingURL=8.7c6b968d.chunk.js.map
